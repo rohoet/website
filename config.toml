@@ -1,9 +1,10 @@
 title = "Hoettger.de"
-baseURL = "https://gitlab-pages.idial.institute/robert.hoettger/hoettger.de_hugo/"
+baseURL = "rohoet.github.io/website/"
 canonifyURLs = true
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 themesDir = "themes"
+publishDir = "docs"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
