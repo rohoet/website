@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Hoettger.de</title>
-    <link>rohoet.github.io/website/posts/</link>
+    <link>https://rohoet.github.io/website/posts/</link>
     <description>Recent content in Posts on Hoettger.de</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="rohoet.github.io/website/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rohoet.github.io/website/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First post</title>
-      <link>rohoet.github.io/website/posts/post02/</link>
+      <link>https://rohoet.github.io/website/posts/post02/</link>
       <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>rohoet.github.io/website/posts/post02/</guid>
+      <guid>https://rohoet.github.io/website/posts/post02/</guid>
       <description>This website using hugo is online since 2018-08. In 2021-12, initial content was added.</description>
     </item>
     

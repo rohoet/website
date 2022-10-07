@@ -1,5 +1,5 @@
 title = "Hoettger.de"
-baseURL = "rohoet.github.io/website/"
+baseURL = "https://rohoet.github.io/website/"
 canonifyURLs = true
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
