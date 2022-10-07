@@ -8,4 +8,4 @@ Every content organized using folders and `.md` files in this repo.
 
 # CI Built result
 
-[https://gitlab-pages.idial.institute/robert.hoettger/hoettger.de_hugo/](https://gitlab-pages.idial.institute/robert.hoettger/hoettger.de_hugo/)
+TBD
