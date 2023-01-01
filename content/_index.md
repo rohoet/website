@@ -10,9 +10,9 @@ draft : false
 
 Hi, I'm Robert.
 I've been responisble for various software projects and contributed to, e.g., <a href="https://www.eclipse.org/app4mc/" target="_blank"> Eclipse App4mc</a>, <!--[Eclipse App4mc](https://www.eclipse.org/app4mc/), --> <a href="https://www.eclipse.org/kuksa/" target="_blank"> Eclipse Kuksa</a> <!--[Eclipse Kuksa](https://www.eclipse.org/kuksa/) -->
-(Automotive, IoT, & Cloud), and various commercial projects during my time as an IT consultant (Webservices, Java, C#, Typscript).
+(Automotive, IoT, & Cloud), and various commercial projects (logistics and energy domains) during my time as a full-stack software developer, IT consultant and manager (primarily webservices, Java, C#, Typescript).
 Digitalization, web-service, cloud, energy, automotive, IoT, smart-home, and optimization domains are in focus of my work.
-I like exploring new technologies and operate a small smart-home system using Grafana, InfluxDB, Prometheus, Portainer, EVCC, Gitlab, Node-Red, PiHole, MQTT, Cadvisor, Node Exporter, and zibee2mqtt containers.
+I like exploring new technologies and operate a small smart-home system using Grafana, InfluxDB, Prometheus, Portainer, IoBroker, EVCC, Gitlab, Node-Red, PiHole, MQTT, Cadvisor, Node Exporter, and zibee2mqtt containers.
 Eventually, I will update this website with more information. 
 Until I put this information together, I leave you with my CV. 
 Feel free to contact me via LinkedIn.
