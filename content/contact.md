@@ -8,6 +8,8 @@ menu:
 ---
 Dr. Robert Höttger 
 
+Please contact me via <a href="https://www.linkedin.com/in/rohoe/" target="_blank"> LinkedIn</a>.
+
 plsdntsndml@gmail.com
 <!--img src="/images/impressum.png" style="width:35%;"/-->
 

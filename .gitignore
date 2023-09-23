@@ -1,2 +1,4 @@
 public/
 themes/gohugo-theme-ananke/src/node_modules
+themes/gohugo-theme-ananke/node_modules/.yarn-integrity
+themes/gohugo-theme-ananke/yarn.lock
