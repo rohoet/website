@@ -12,7 +12,7 @@ Hello out there - I'm Robert - Welcome to my homepage.
 
 I like exploring technologies and using them to help anyone making our presence more sustainable with a lower carbon footprint on our planet.
 After working in various domains like automotive and logistics, I identified the energy business as the most suitable one for my ambitions and passion.
-On my way to E.ON One, where I currently work as a product manager, I was lucky to work with and learn from outstanding people in various roles such as full-stack developer, senior consultant, or delivery manager.
+On my way to E.ON Digital Technology, where I currently work as an engineering lead, I was lucky to work with and learn from outstanding people in various roles such as full-stack developer, senior consultant, delivery manager, or technical product owner.
 Some of the projects I worked on include open-source software, e.g., <a href="https://www.eclipse.org/app4mc/" target="_blank"> Eclipse App4mc</a> <!--[Eclipse App4mc](https://www.eclipse.org/app4mc/), --> or <a href="https://www.eclipse.org/kuksa/" target="_blank"> Eclipse Kuksa</a> <!--[Eclipse Kuksa](https://www.eclipse.org/kuksa/) -->
 (Automotive, IoT, & Cloud).
 The various commercial projects I was involved with primarily addressed webservices using Java, Kotlin, C#, and Typescript.
@@ -40,7 +40,8 @@ Feel free to reach out via <a href="https://www.linkedin.com/in/rohoe/" target="
 * **Keywords**: Automotive, WCRT optimization, resource management, load balancing, heterogeneous processors, embedded, real-time, partitioning, mapping, ILP, CP, RTA, TDRR, CPU-GPU
 
 ### Work Experience
-* **07.2022 -- now**: Digital Delivery Manager, Technical Product Owner, Product Manager E.ON One GmbH.
+* **07.2022 -- now**: Engineering Lead E.ON Digital Technology GmbH.
+* **07.2022 -- 06.2024**: Digital Delivery Manager, Technical Product Owner, Product Manager E.ON One GmbH.
 * **10.2020 -- 06.2022**: Senior Consultant, full-stack software development, architecture, and security for web applications, Materna Information & Communications SE.
 * **05.2017 -- 12.2022**: Eclipse Kuksa Co-Projectlead based on ITEA3 project: APPSTACLE: open standard APplication Platform for carS and transportation vehiCLEs, eclipse.org/kuksa.
 * **10.2015 -- 09.2019** Supervision & Lectureship, Computer Science Courses: ”Rechnerstrukturen und Betriebssysteme II” and ”Programmierkurs II” & Distributed and Parallel Systems (DPS) lecture, Fachhochschule Dortmund.
@@ -68,6 +69,7 @@ More publications can be found on my [Google scholar](https://scholar.google.de/
 
 * **Professional Scrum Master I** - Certified use and application of Scrum concept, terminology, and its framework
 * **Professional Scrum Product Owner I** - Fundamental level of product ownership
+* **ISO50001 Certified Lead Auditor** - IRCA (International Register of Certificated Auditors) registered 
 * Certified advanced training and qualification in communication, leadership, management, and professional competence, FH-Dortmund
 
 
