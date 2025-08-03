@@ -67,14 +67,21 @@ More publications can be found on my [Google scholar](https://scholar.google.de/
 
 ### Certificates
 
-* **Professional Scrum Master I** - Certified use and application of Scrum concept, terminology, and its framework
-* **Professional Scrum Product Owner I** - Fundamental level of product ownership
-* **ISO50001 Certified Lead Auditor** - IRCA (International Register of Certificated Auditors) registered 
-* Certified advanced training and qualification in communication, leadership, management, and professional competence, FH-Dortmund
+<!--* **New Relic Verified Foundation**; 08.2025-->
+<!--* **AWS Cloud Practitioniner**; 08.2025-->
+* **AWS Cloud Essentials**; 05.2025
+* **Leaderhip Audit** Successfully finished a leadership Audit, perfomed with Profil-M; 01.2025
+* **Talent Insights Basic** by TTI Success Insights LTD., Result: Motivator; 08.2024
+* **CLiffton Strength Assessment** Focus, Woo, Strategic, Communication; 05.2024
+* **ISO50001 Certified Lead Auditor** - IRCA (International Register of Certificated Auditors) registered 04.2024
+* **Professional Scrum Product Owner I** - Fundamental level of product ownership; 07.2021
+* **Professional Scrum Master I** - Certified use and application of Scrum concept, terminology, and its framework; 07.2020
+* Certified advanced training and qualification in communication, leadership, management, and professional competence, FH-Dortmund; 01.2021
 
 
 ### Miscellaneous
 
-* **Languages**: German and English
-* **Organization & management**: ITEA research project outlines (PO), and full project proposals (FPP); Coordination of teams (up to 10 people) and external cooperation (up to 20 people) for software implementation as well as financial planning for publicly funded projects, employment, and effort planning for new employees
-* **Programming languages, technologies and tools** I work(ed) with: C#, .NET5, EF-Core, Flyway, PowerShell / Bash scripting, Python, TypeScript, ReactJS, Kotlin, Gherkin, Node.js, React, SQL, CSS, Markdown, REST, JMS, JPA, Spring Boot, Spring Security, Spring Data, TFS, SVN, Junit, Mockito, Jest, Java, LATEX, Git; Eclipse, IntelliJ, Rider, DataGrid, MS Office, MS Visual Studio (Code), Confluence, JIRA, MS Azure DevOps, Matlab (Simulink), Rancher, GrayLog, SonarQube, Keycloak, Swagger
+* **Languages**: German and English (fluent)
+* **Organization & management**: Department Leadership up to 150 engineers in a onshore, nearshore, and offshore setup; ITEA research project outlines (PO), and full project proposals (FPP); Coordination of multiple scrum teams (+SAFE) and external cooperation for software implementation as well as financial planning for internal and publicly funded projects;
+* **Programming languages, technologies and tools** I work(ed) with: Typescript, Java, Kotlin, C#, .NET5, EF-Core, Flyway, PowerShell / Bash scripting, Python, Gherkin, Node.js, React, SQL, CSS, Markdown, REST, JMS, JPA, Spring Boot, Spring Security, Spring Data, TFS, SVN, Junit, Mockito, Jest, LATEX, Git, Github, Gitlab, Eclipse, Grafana, K8s and docker, IntelliJ, Rider, DataGrid, MS Office, New Relic, MS Visual Studio (Code), Confluence, JIRA, MS Azure DevOps, Matlab (Simulink), Rancher, GrayLog, SonarQube, Sentry, Keycloak, Auth0, Swagger, and more
+* **Clouds**: I worked with all three most common hypersclers MS Azure, GCP, and AWS  
