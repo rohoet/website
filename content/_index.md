@@ -40,7 +40,7 @@ Feel free to reach out via <a href="https://www.linkedin.com/in/rohoe/" target="
 * **Keywords**: Automotive, WCRT optimization, resource management, load balancing, heterogeneous processors, embedded, real-time, partitioning, mapping, ILP, CP, RTA, TDRR, CPU-GPU
 
 ### Work Experience
-* **07.2022 -- now**: Engineering Lead E.ON Digital Technology GmbH.
+* **07.2024 -- now**: Head of FEH Software Development (interim) & Project Manager E.ON Digital Technology GmbH.
 * **07.2022 -- 06.2024**: Digital Delivery Manager, Technical Product Owner, Product Manager E.ON One GmbH.
 * **10.2020 -- 06.2022**: Senior Consultant, full-stack software development, architecture, and security for web applications, Materna Information & Communications SE.
 * **05.2017 -- 12.2022**: Eclipse Kuksa Co-Projectlead based on ITEA3 project: APPSTACLE: open standard APplication Platform for carS and transportation vehiCLEs, eclipse.org/kuksa.
