@@ -12,10 +12,12 @@ Hello out there - I'm Robert - Welcome to my homepage.
 
 I like exploring technologies and using them to help anyone making our presence more sustainable with a lower carbon footprint on our planet.
 After working in various domains like automotive and logistics, I identified the energy business as the most suitable one for my ambitions and passion.
-On my way to E.ON Digital Technology, where I currently work as an engineering lead, I was lucky to work with and learn from outstanding people in various roles such as full-stack developer, senior consultant, delivery manager, or technical product owner.
+On my way to E.ON Digital Technology, where I currently work as team lead solution development, I was lucky to work with and learn from outstanding people in various roles such as full-stack developer, senior consultant, delivery manager, or technical product owner.
 Some of the projects I worked on include open-source software, e.g., <a href="https://www.eclipse.org/app4mc/" target="_blank"> Eclipse App4mc</a> <!--[Eclipse App4mc](https://www.eclipse.org/app4mc/), --> or <a href="https://www.eclipse.org/kuksa/" target="_blank"> Eclipse Kuksa</a> <!--[Eclipse Kuksa](https://www.eclipse.org/kuksa/) -->
 (Automotive, IoT, & Cloud).
-The various commercial projects I was involved with primarily addressed webservices using Java, Kotlin, C#, and Typescript.
+The various commercial projects I was involved with primarily address webservices using Java, Kotlin, C#, or Typescript. Some of which include <a href="https://app.home.eon.com" target="_blank"> E.ON Home</a>, 
+<a href="https://eon-optimum.com" target="_blank"> E.ON Optimum</a>, or 
+<a href="https://www.dhl.de/de/geschaeftskunden.html" target="_blank"> DHL Geschäftskundenportal</a>.
 
 In my private life, I like to spend time with my family, do various types of sports, play music, or like programming stuff for my smart home. 
 For the latter, I run a couple of docker containers with Grafana, InfluxDB, Prometheus, Portainer, EVCC, Gitlab, Node-Red, IoBroker, PiHole, MQTT, Cadvisor, Node Exporter, and zibee2mqtt. 
@@ -40,15 +42,16 @@ Feel free to reach out via <a href="https://www.linkedin.com/in/rohoe/" target="
 * **Keywords**: Automotive, WCRT optimization, resource management, load balancing, heterogeneous processors, embedded, real-time, partitioning, mapping, ILP, CP, RTA, TDRR, CPU-GPU
 
 ### Work Experience
-* **07.2024 -- now**: Head of FEH Software Development (interim) & Project Manager E.ON Digital Technology GmbH.
-* **07.2022 -- 06.2024**: Digital Delivery Manager, Technical Product Owner, Product Manager E.ON One GmbH.
-* **10.2020 -- 06.2022**: Senior Consultant, full-stack software development, architecture, and security for web applications, Materna Information & Communications SE.
-* **05.2017 -- 12.2022**: Eclipse Kuksa Co-Projectlead based on ITEA3 project: APPSTACLE: open standard APplication Platform for carS and transportation vehiCLEs, eclipse.org/kuksa.
-* **10.2015 -- 09.2019** Supervision & Lectureship, Computer Science Courses: ”Rechnerstrukturen und Betriebssysteme II” and ”Programmierkurs II” & Distributed and Parallel Systems (DPS) lecture, Fachhochschule Dortmund.
-* **10.2011 -- 09.2020**: Scientific Employee, International ITEA research projects AMALTHEA, AMALTHEA4public, and APPSTACLE: Model-based automotive software development for multi and many-core systems & IoT and Cloud computing for vehicles, Fachhochschule Dortmund.
-* **03.2017 -- 10.2019**: GSoC Mentor, Mentoring Google Summer of Code projects (2017 A4MCar, 2018 Kuksa LWM2M, 2019 APP4MC latency analysis) on behalf of the Eclipse Foundation.
-* **04.2011 -- 09.2011**: Software Engineer, Flash-memory image generation and using SQL databases during Bachelorthesis activities, Hella KGaA Hueck & Co., Lippstadt, Germany.
-* **07.2008 -- 01.2011**: Associate, High-speed camera recordings, model-driven software development (Yakindu framework for mobile applications and an omni-directional camera) DAAD funded, Fachhochschule Dortmund & Curtin University (Perth, Australia, 4 months).
+* **2025-12 -- now**: Team Lead Solution Development E.ON Digital Technology GmbH.
+* **2024-07 -- 2025-11**: Head of FEH Software Development (interim) & Project Manager E.ON Digital Technology GmbH.
+* **2022-07 -- 2024-06**: Digital Delivery Manager, Technical Product Owner, Product Manager E.ON One GmbH.
+* **2020-10 -- 2022-06**: Senior Consultant, full-stack software development, architecture, and security for web applications, Materna Information & Communications SE.
+* **2017-05 -- 2022-12**: Eclipse Kuksa Co-Projectlead based on ITEA3 project: APPSTACLE: open standard APplication Platform for carS and transportation vehiCLEs, eclipse.org/kuksa.
+* **2015-10 -- 2019-09** Supervision & Lectureship, Computer Science Courses: ”Rechnerstrukturen und Betriebssysteme II” and ”Programmierkurs II” & Distributed and Parallel Systems (DPS) lecture, Fachhochschule Dortmund.
+* **2011-10 -- 2020-09**: Scientific Employee, International ITEA research projects AMALTHEA, AMALTHEA4public, and APPSTACLE: Model-based automotive software development for multi and many-core systems & IoT and Cloud computing for vehicles, Fachhochschule Dortmund.
+* **2017-03 -- 2019-10**: GSoC Mentor, Mentoring Google Summer of Code projects (2017 A4MCar, 2018 Kuksa LWM2M, 2019 APP4MC latency analysis) on behalf of the Eclipse Foundation.
+* **2011-04 -- 2011-09**: Software Engineer, Flash-memory image generation and using SQL databases during Bachelorthesis activities, Hella KGaA Hueck & Co., Lippstadt, Germany.
+* **2008-07 -- 2011-01**: Associate, High-speed camera recordings, model-driven software development (Yakindu framework for mobile applications and an omni-directional camera) DAAD funded, Fachhochschule Dortmund & Curtin University (Perth, Australia, 4 months).
 
 ### Memberships and Awards
 * 2022 PhD studies award: Fachhochschule Dortmund
